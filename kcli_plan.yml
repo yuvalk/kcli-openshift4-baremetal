@@ -116,11 +116,11 @@ apps:
  - 05_cache.sh
  - 06_disconnected.sh
  - 07_nbde.sh
- - 07_disable_mdns.sh
  - 08_ntp.sh
- - 09_deploy_openshift.sh
- - 10_nfs.sh
- - 10_nfs.yml
+ - 09_disable_mdns.sh
+ - 10_deploy_openshift.sh
+ - 11_nfs.sh
+ - nfs_pv.yml
  - install-config.yaml                                                                                                                           
  - clouds.yaml
  - .bashrc
